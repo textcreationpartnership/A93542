@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration made by the Lord Marquesse of Hartford, and other lords and chiefe gentlemen of the county of Somerset. Shewing their intention of comming into that countie, to be (onely) to settle peace, and not to offer the least violence or disturbance to any His Majesties loyall subjects, either in their persons or estates, (contrary to what hath been falsely suggested) and which hath bin manifested by all their actions ever since. And which doth farther appeare, by the examination and confession of one Captaine Preston, a principall captaine of the trained band of the countie. Whereunto is added, a letter from the governour of Sherbourne Castle, to his worthy friend in London; truly relating what hath passed betwixt the Marquesse of Hartford and the Earle of Bedford, since he came before Sherbourne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93542</idno>
+            <idno type="STC">Wing S4647</idno>
+            <idno type="STC">Thomason E118_31</idno>
+            <idno type="STC">ESTC R22205</idno>
+            <idno type="EEBO-CITATION">99871656</idno>
+            <idno type="PROQUEST">99871656</idno>
+            <idno type="VID">156105</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156105)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration made by the Lord Marquesse of Hartford, and other lords and chiefe gentlemen of the county of Somerset. Shewing their intention of comming into that countie, to be (onely) to settle peace, and not to offer the least violence or disturbance to any His Majesties loyall subjects, either in their persons or estates, (contrary to what hath been falsely suggested) and which hath bin manifested by all their actions ever since. And which doth farther appeare, by the examination and confession of one Captaine Preston, a principall captaine of the trained band of the countie. Whereunto is added, a letter from the governour of Sherbourne Castle, to his worthy friend in London; truly relating what hath passed betwixt the Marquesse of Hartford and the Earle of Bedford, since he came before Sherbourne.</title>
+                  <author>Lunsford, Thomas, Sir, 1610?-1653?</author>
+                  <author>Somerset, William Seymour, Duke of, 1588-1660.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A letter written by the governour of Sherbourne Castle" signed at end: T. L., i.e. Thomas Lunsford.</note>
+                  <note>Annotation on Thomason copy: "Sep: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedford, William Russell, --  Duke of, 1613-1700.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156105:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <p>
+               <hi>A</hi> DECLARATION Made by the Lord Marqueſſe of <hi>Hart<g ref="char:EOLhyphen"/>ford,</hi> and other Lords and chiefe Gentlemen of the County of SOMERSET.</p>
+            <p>Shewing their intention of comming into that Countie, to be (onely) to ſettle Peace, and not to offer the leaſt violence or diſturbance to any His Majeſties loyall Subjects, either in their Per<g ref="char:EOLhyphen"/>ſons or Eſtates, (contrary to what hath been falſely ſuggeſted) and which hath bin manifeſted by all their actions ever ſince.</p>
+            <p>
+               <hi>And which doth farther appeare, by the examination and con<g ref="char:EOLhyphen"/>feſsion of one Captaine</hi> Preſton, <hi>a principall Captaine of the Trained Band of that Countie.</hi>
+            </p>
+            <p>Whereunto is added, A Letter from the Governour of <hi>Sherbourne Caſtle,</hi> to his worthy friend in <hi>London;</hi> truly relating what hath paſ<g ref="char:EOLhyphen"/>ſed betwixt the Marqueſſe of <hi>Hartford</hi> and the Earle of <hi>Bedford,</hi> ſince he came before <hi>Sherbourne.</hi>
+            </p>
+            <p>
+               <hi>LONDON, Printed for</hi> H. B. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:156105:2"/>
+            <!-- PDF PAGE 7 -->
+            <pb n="1" facs="tcp:156105:2"/>
+            <!-- PDF PAGE 7 -->
+            <head>A DECLARATION <hi>of the</hi> Lo: <hi>Marqueſſe</hi> Hartford <hi>and other Lords and chief Gentlemen of the County of</hi> Somerſet, <hi>being now at</hi> Sher<g ref="char:EOLhyphen"/>bourn, made <hi>the</hi> 12<hi rend="sup">th</hi>. <hi>of</hi> AUGUST, 1642.</head>
+            <p>FInding our Countery in ſo great diſtraction, we have thought it neceſſary to communicate to our good friends and neighbours the cauſe of our preſent remove to this Town. We came ſome dayes ſince into the Countie of <hi>Somerſet,</hi> with commiſſion from His majeſty to muſtre the trained bands of the County, wherein we have done nothing but according to the Law: but although ſuch as were ſummoned to the muſter yeelded obedience or a lawfull excuſe, yet contrary to our expectation, we found that great mul<g ref="char:EOLhyphen"/>titudes of people were poyſoned and enraged againſt that ſervice by falſe and ſcandalous ſuggeſtions, as if the intent of the Commiſſion were to enthrall the people and to take away great part of their eſtates, which we are confident never entered into His Maje<g ref="char:EOLhyphen"/>ſties thoughts, and are certain there was nothing ten<g ref="char:EOLhyphen"/>ding that way in the Commiſſion: So we pray all men to be aſſured, that it was impoſſible to have made us the inſtruments of ſo great an oppreſſion. By which
+<pb n="2" facs="tcp:156105:3"/>
+               <!-- PDF PAGE 8 -->and other falſe reports of malignant &amp; factious ſpirits. A great number of people were on friday laſt gathered againſt us neere <hi>Wels</hi> in warlike manner, not onely out of that, but out of other neighbouring Counties, and that as we are credibly informed, with promiſes of pillage of the Countrie, as rifling of the Palace of <hi>Wels</hi> doth make manifeſt: Where they threatning to force us in that Town, and we being willing to prevent as much as was poſſible all occaſions of ſhedding blood, which they would have enforced. We retired to <hi>Som<g ref="char:EOLhyphen"/>merton,</hi> receiving yeſterday advertiſement from ſeveral parts, the Sheriffe of the ſaid Countie had iſſued out warrants to levie the power of their county upon us his Majeſties Commiſſioners, without any warrant at all from his Majeſtie, as we are very well aſſured, for ſeeing the miſchiefes that would neceſſarily have fol<g ref="char:EOLhyphen"/>lowed upon our forced defence if we ſhould have ſtay<g ref="char:EOLhyphen"/>ed there, we thought fit to retire out of that Countie, expecting that in time our Countrey men will be ſa<g ref="char:EOLhyphen"/>tisfied of our integrity, and reduced to the obedience they ought to yeeld to his Majeſtie and his Laws.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Lo. Mar. <hi>Hartford,</hi>
+                     </item>
+                     <item>Lo. <hi>Pawlet,</hi>
+                     </item>
+                     <item>Lo. <hi>Seimer.</hi>
+                     </item>
+                     <item>Sir <hi>Iohn Pawlet,</hi>
+                     </item>
+                     <item>Sir <hi>Iohn Stowel,</hi>
+                     </item>
+                     <item>Sir <hi>Ralph Hopton,</hi>
+                     </item>
+                     <item>Sir <hi>Charles Berkley,</hi>
+                     </item>
+                     <item>Sir <hi>Hen. Berkley,</hi>
+                     </item>
+                     <item>Sir <hi>Ed. Berkley.</hi>
+                     </item>
+                     <item>Sir <hi>Ed. Rodney.</hi>
+                     </item>
+                     <item>S. <hi>Fran. Dodington,</hi>
+                     </item>
+                     <item>Sir <hi>Fran. Hawley.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Windham,</hi> 
+                        <abbr>Eſq</abbr>
+                     </item>
+                     <item>
+                        <hi>Tho. Smith,</hi> 
+                        <abbr>Eſq</abbr>
+                     </item>
+                     <item>
+                        <hi>Ed. Kirton,</hi> 
+                        <abbr>Eſq</abbr>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="examination">
+            <pb n="3" facs="tcp:156105:3"/>
+            <!-- PDF PAGE 8 -->
+            <head>The examination of Cap. <hi>John Preſton,</hi> who conducted ſome men out of the Weſt Countery, was taken priſoner by ſome of my Lord Mar. HARTFORD his Company.</head>
+            <p>
+               <hi>JOhn Preſton</hi> 
+               <abbr>Eſq</abbr> ſaid that he with others, by their appro<g ref="char:EOLhyphen"/>bation to the number of about <hi>300.</hi> men came yeſterday from the Weſt part of the countie with Arms, <hi>viz,</hi> muſquets, pikes, powder, bullets, and match, and as he believeth, with an intent to lodge the ſaid men in <hi>Glaſtenbury,</hi> that night, but whither to go farther he did not know, but thinkes they in<g ref="char:EOLhyphen"/>tended to march next morning up to <hi>Mendip</hi> hill, and fur<g ref="char:EOLhyphen"/>ther ſaid, that finding Sir <hi>John Stowel</hi> &amp; Sir <hi>John Paulet</hi> in their way, received a meſſage from the ſaid Sir <hi>John Stowel</hi> &amp; Sir <hi>John Pawlet,</hi> by M. <hi>Sanders</hi> of <hi>Petherton,</hi> w<hi rend="sup">ch</hi> was in effect to deſire them, to return as he hath heard it de<g ref="char:EOLhyphen"/>livered to him, to which M. <hi>Pyne</hi> returned anſwer at firſt, that they ſhould go on, but at laſt he held it convenient that they ſhould returne: but the people preſſed to go forward, having received encouragement, from words uttered by ſome of their company, that they were but a few horſe and would run away, but what particular perſons ſpake thoſe words, he remembreth not: And he further ſaith that after the Skirmiſh was paſt, and the horſe purſuing the foote, they running away. Sir <hi>John Paulet</hi> came up to them, whilſt there were ſome with their ſwords drawn upon him, who ſtraightly charged them that they ſhould not kill him, nor offer to ſpill any blaod of the poore fellowes, upon which they departed frm any further execu<g ref="char:EOLhyphen"/>tion:</p>
+            <closer>
+               <dateline>
+                  <hi>This is the examination of M.</hi> Iohn Preſton <hi>Cap. taken <date>the 5. of Aug. 1642,</date> before two Juſtices of the peace.</hi>
+               </dateline>
+               <signed>William Paſſet, Anthony Stocker.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:156105:4"/>
+            <!-- PDF PAGE 9 -->
+            <head>A Letter written by the Governour of <hi>Sherbourn Caſtle,</hi> to a worthy friend, of the proceedings of <hi>Sherbourne</hi> and <hi>Yeavel</hi> ſince the beginning.</head>
+            <p>I Send you the newes of theſe parts, which have been very active; On Friday the 2. of <hi>Septemb.</hi> the E. of <hi>Bedford</hi> appeared before this Caſtle, (which I have the honour to be Governour of) and mar<g ref="char:EOLhyphen"/>ched directly towards the townes end, which is large and acceſſable in many places; but our Horſe, in num<g ref="char:EOLhyphen"/>ber 240. appeared, (his Army conſiſting of 7000. men, and 600. Horſe, with 14. Peeces of Canon) made a ſtand: ſome skirmiſhing was with the Horſe, and wee got the better, brought away divers priſoners from the face of their Army, and forced them to a colder lodg<g ref="char:EOLhyphen"/>ing them the towne, upon the hils; where that night we gave them a haſty alarum, and retreated, leaving them in Armes, ſhivering, and blowing their nayles till mor<g ref="char:EOLhyphen"/>ning.</p>
+            <p>On Saterday they attempted againe for lodging, and the convenience of the towne, our Horſt faced them: They marched towards us a good round pace with Horſe, and a Regiment of Foot; wee retreated back to a hedge ſide, from whence came a volley of ſhot, that ſent many of them into the other world, and cauſed divers (which that night ran away) to enter in<g ref="char:EOLhyphen"/>to conſideration of the calamities of war.</p>
+            <p>Then they come with all their ſtrength and Canon. We retreated into the towne, lodged Musketiers in co<g ref="char:EOLhyphen"/>verts, &amp; behind barricadoes, and they with their Ord<g ref="char:EOLhyphen"/>nance battered the towne all that day, and skirmiſhed
+<pb n="5" facs="tcp:156105:4"/>
+               <!-- PDF PAGE 9 -->ten houres, with great loſſe, and not one of our men loſt: In the concluſion we dealt ſo hardly with them, that we returned them to the hills, where till Sunday following they wanted neither cold lodging nor hun<g ref="char:EOLhyphen"/>gry appetites.</p>
+            <p>Sunday they beſtowed partly in hearing rebellion fomented, and ſtealing of ſheep and oxen, (which they never paid for) by Scripture, affirming it as lawfull as for Chriſt to gather eares of corne with his Diſciples, and not pay for it.</p>
+            <p>This night they were kept in alarum, our horſe fal<g ref="char:EOLhyphen"/>ling in three place, into their quarters. Munday they battered our Caſtle out of ſhot, which not reaching, they came neerer, and fell to worke upon a battery, which my little drakes ſoon beat them from, not one of my ſhots falling in vaine.</p>
+            <p>This night I gave three ſhot of Ordnance an mid-night, which they conceived a ſignall, hearing that ſome Forces were upon the way to us vvith Squire <hi>Rogers:</hi> Whereupon 1000. of them ran away, and the next day they raiſed their ſiege.</p>
+            <p>On Wedneſday we followed them to <hi>Yeavel,</hi> where their vvhole Army lay: our vvhole number vvas but 150. horſe, &amp; 200. Foot. They came out upon us horſe and foot: We skirmiſhed awhile for the two paſſages, at laſt they got one, 1000. of their Musketiers beating off ours, Cap. <hi>Stowel</hi> charged their horſe, vvhich ran away: but another Troop ſupplyed it, which Cap. <hi>Digbie</hi> and my ſelfe charged, beat it away, and chaſed it almoſt to the bridge.</p>
+            <p>Now on the other paſſage vvas a cruel skirmiſh be<g ref="char:EOLhyphen"/>tvveene the Muſquetiers; at laſt vve loſt it; and Sir
+<pb n="6" facs="tcp:156105:5"/>
+               <!-- PDF PAGE 10 -->
+               <hi>Walter Earles</hi> Troop (commanded by his Lieutenant) fell upon us; The Lieutenant was killed, &amp; that Troop cut in pieces, not 16. of them returned, and <hi>Digbies</hi> men brought home 16. of their horſes: but their Musket ſhot diſordered our men, and ſome of our men ranne heartily: but we ſtayed them at the top of the next hill, rallyed them, and marched home in good order, whilſt their men likewiſe quitted the place in diſorder, and purſued not a jot.</p>
+            <p>But they loſt 140. of their men dead upon the ground, buryed 9. of their Commanders next day in the Church, and marched with a few men to <hi>Dorche<g ref="char:EOLhyphen"/>ſter,</hi> and disbanded the reſt of their Army, there being beſides many of their men and Commanders which lye dangerouſly wounded at <hi>Yeavel.</hi>
+            </p>
+            <p>In all this we loſt but twelve men. Serjeant Major <hi>Banfield</hi> is taken; Captaine <hi>Huſſey,</hi> Lieutenant <hi>Hall,</hi> and an Enſigne were killed; and here we are fortifying this Caſtle, and now raiſing men, for all the Coun<g ref="char:EOLhyphen"/>trey is open to us. So with my love to you I reſt,</p>
+            <closer>
+               <dateline>
+                  <hi>Sherbourne,</hi> 
+                  <date>
+                     <hi>Sep.</hi> 12. 1642.</date>
+               </dateline>
+               <signed>Your friend and ſervant, T. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
